@@ -1,6 +1,8 @@
 body {
-    background-color: #f2a30f;
+    background-image: url("https://img.freepik.com/free-photo/uncooked-pasta-red-tomatoes-closed-container-wooden-table_23-2148087205.jpg?t=st=1724519213~exp=1724522813~hmac=8ee7223938179dc9e99235c1a6076faafbc545ae5410c578dd6f334d8e0f5bb1&w=1060");
     font-family: Arial, Helvetica, sans-serif;
+    color: #000;
+    padding: 10px;
 }
 
 a {
